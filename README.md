@@ -22,3 +22,5 @@ Once the model detects driver drowsiness, it will trigger an alarm sound to aler
 
 ### Conclusion:
 In this project, we have developed a driver drowsiness detection app using streamlit, CNN and deployed using streamlit cloud, It can trigger an alarm sound when the driver is drowsy. This system can potentially reduce the number of accidents caused by driver drowsiness on the road. Further improvements can be made by incorporating other sensors such as steering angle, speed, and eye-tracking to enhance the accuracy of the system.
+
+## [Learn Visually - Experience the app here](https://driverdrowsinessdetection.streamlit.app/)
